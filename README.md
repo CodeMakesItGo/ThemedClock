@@ -5,6 +5,9 @@ Uses the Node MCU ESP8266.
 You will need your own Google API Key and the channel ID of the subscriber count you want to get. 
 The channel ID does not have to be your own. But the subscriber count will only return the first 3 most significant digits. 
 
+Video of this build is here:
+https://youtu.be/PzK53g-rpe4
+
 Parts for this build:
 
 Parts in this build: 
